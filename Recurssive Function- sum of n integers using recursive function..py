@@ -1,4 +1,4 @@
-#Recurssive Function:
+#Recursive Function:
 #def-Function which calls itself repetedly till stopping condition occurs.
 
 #sum of n integers using recursive function.
